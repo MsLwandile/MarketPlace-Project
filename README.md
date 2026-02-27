@@ -7,4 +7,5 @@ This project uses Python tools/libraries such as pandas, numpy, scikitlearn, sea
 Future Improvements:
 - Automate EDA pipeline
 - Separate data, EDA, and model building for more structure inside repo
-- Attempt Lasso instead of linear regression, due to high dimensional dummy data
+- Attempt Lasso instead of linear regression to find most critical drivers of the target Sales
+- Attempt XgBoost, to see if it captures the complex, non-linear relationships better
