@@ -8,4 +8,4 @@ Future Improvements:
 - Automate EDA pipeline
 - Separate data, EDA, and model building for more structure inside repo
 - Attempt Lasso instead of linear regression to find most critical drivers of the target Sales
-- Attempt XgBoost, to see if it captures the complex, non-linear relationships better
+- Attempt XGBoost, to see if it captures the complex, non-linear relationships better, as the dataset has quite a few categorical variables.
